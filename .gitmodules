@@ -1,0 +1,27 @@
+[submodule "YoutubeFlutterTestCase"]
+	path = YoutubeFlutterTestCase
+	url = git@github.com:muhyasin89/YoutubeFlutterTestCase.git
+[submodule "flutter_dio"]
+	path = flutter_dio
+	url = git@github.com:muhyasin89/flutter_dio.git
+[submodule "web_flutter"]
+	path = web_flutter
+	url = git@github.com:muhyasin89/web_flutter.git
+[submodule "YoutubeFlutterProject"]
+	path = YoutubeFlutterProject
+	url = git@github.com:muhyasin89/YoutubeFlutterProject.git
+[submodule "FlutterPersonalExpensesApp"]
+	path = FlutterPersonalExpensesApp
+	url = git@github.com:muhyasin89/FlutterPersonalExpensesApp.git
+[submodule "YoutubeFlutterUI"]
+	path = YoutubeFlutterUI
+	url = git@github.com:muhyasin89/YoutubeFlutterUI.git
+[submodule "Flutter_Quiz_App"]
+	path = Flutter_Quiz_App
+	url = git@github.com:muhyasin89/Flutter_Quiz_App.git
+[submodule "Flutter_Shop_App"]
+	path = Flutter_Shop_App
+	url = git@github.com:muhyasin89/Flutter_Shop_App.git
+[submodule "Flutter_Meal_App"]
+	path = Flutter_Meal_App
+	url = git@github.com:muhyasin89/Flutter_Meal_App.git
